@@ -5,6 +5,7 @@ plugins {
 }
 dependencies {
     compile(kotlin("stdlib-jdk8"))
+    compile("org.nanohttpd:nanohttpd-webserver:2.2.0")
 }
 repositories {
     mavenCentral()

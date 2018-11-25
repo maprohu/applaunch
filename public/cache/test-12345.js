@@ -5,6 +5,7 @@
         document.body.appendChild(s);
     }
 
-    addScript('cache/test-12345.js');
+
+    console.dir('heheh');
 
 })();
